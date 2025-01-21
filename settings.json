@@ -1,0 +1,14 @@
+{
+    // "[jupyter]": {
+    //     "editor.defaultFormatter": "ms-python.black-formatter",
+    //     "python.formatting.blackArgs": ["--line-length", "100"], 
+    //     "editor.formatOnSave": true
+    // },
+    "python.formatting.provider": "ms-python.black-formatter",
+    "python.formatting.blackArgs": ["--line-length", "100"], 
+    "editor.formatOnSave": true
+ 
+}
+
+
+  
